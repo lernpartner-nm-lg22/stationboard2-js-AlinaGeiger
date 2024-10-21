@@ -18,7 +18,7 @@
 }
 :root {
     font-family: SBB;
-    color:white;
+    color:rgb(255, 255, 255);
 }
 
 body {
@@ -43,7 +43,7 @@ body {
 table {
     width: 100%;
     table-layout: fixed;
-    background-color: blue;
+    background-color: rgb(210, 73, 215);
     opacity: 80%;
     backdrop-filter: blur(10px);
     border-collapse: collapse;
@@ -51,8 +51,8 @@ table {
 thead th,
 caption {
     position: sticky;
-    background-color: blue;
-    border: 3px solid white;
+    background-color: rgb(89, 10, 123);
+    border: 3px solid rgb(93, 72, 197);
 }
 caption {
     top:0;
